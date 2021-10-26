@@ -1,5 +1,5 @@
 ##Solve exercises 1.12 b) and d), 2.3, and 2.6.
-###1.12b)
+###1.12b) .
 Exercise 1.12 Show that the standard measurable space on  
 Ω = { 0 , 1 , . . . , ∞ }
 equipped with Poisson measure is a discrete probability space.
